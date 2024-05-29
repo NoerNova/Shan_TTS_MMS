@@ -1,0 +1,9 @@
+Datasets/*
+!Datasets/datasets.ipynb
+
+Finetune/mms_adapters/*
+!Finetune/mms_adapters/mms_adapters.ipynb
+!Finetune/mms_adapters/vocab.json
+
+.DS_Store
+labs.ipynb
