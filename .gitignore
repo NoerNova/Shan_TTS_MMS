@@ -2,15 +2,13 @@ Datasets/*
 !Datasets/datasets.ipynb
 
 Finetune/mms_adapters/*
+Finetune/finetune-hf-vits
 
 !Finetune/mms_adapters/mms_adapters.ipynb
 !Finetune/mms_adapters/vocab.json
 
-Finetune/finetune-hf-vits/*
-Finetune/finetune-hf-vits/training_config_examples/*
-
-!Finetune/finetune-hf-vits/training_config_examples/finetune_mms_nova.json
-!Finetune/finetune-hf-vits/training_config_examples/finetune_mms_shn.json
+Finetune/vits_mms_finetune/*
+!Finetune/vits_mms_finetune/config/
 
 .DS_Store
 labs.ipynb
