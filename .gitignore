@@ -3,8 +3,11 @@ Datasets/*
 
 Finetune/mms_adapters/*
 Finetune/finetune-hf-vits
+Finetune/TTS
 
 !Finetune/mms_adapters/mms_adapters.ipynb
+!Finetune/mms_adapters/mms_adapters_inference.ipynb
+!Finetune/mms_adapters/mms_adapters_train.ipynb
 !Finetune/mms_adapters/vocab.json
 
 Finetune/vits_mms_finetune/*
@@ -12,6 +15,7 @@ Finetune/vits_mms_finetune/*
 
 .DS_Store
 labs.ipynb
+.idea
 
 *.wav
 *.mp3
