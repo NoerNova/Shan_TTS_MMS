@@ -1,5 +1,7 @@
 Datasets/*
 !Datasets/datasets.ipynb
+!Datasets/tts-datasets.ipynb
+!Datasets/asr-datasets.ipynb
 
 Finetune/mms_adapters/*
 Finetune/finetune-hf-vits
@@ -19,3 +21,5 @@ labs.ipynb
 
 *.wav
 *.mp3
+
+Note/*
