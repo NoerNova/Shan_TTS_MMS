@@ -6,7 +6,7 @@
   "overwrite_output_dir": true,
   "output_dir": "D:\\Work\\Developer\\ShanTTS\\Finetune\\vits_mms_finetune\\tmp\\mms-tts-nova-train",
 
-  "dataset_name": "D:\\Work\\Developer\\ShanTTS\\Datasets\\mms-tts-nova-datasets-500\\train",
+  "dataset_name": "D:\\Work\\Developer\\ShanTTS\\Datasets\\mms-tts-nova-datasets\\train",
   "audio_column_name": "audio",
   "text_column_name": "transcription",
   "train_split_name": "train",
